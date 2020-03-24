@@ -1,0 +1,11 @@
+{
+    "areaID": 0,
+    "selectedMarkers": [
+    ],
+    "shadingValue": 0,
+    "showDisplay": true,
+    "showNPCMarker": false,
+    "showNavigation": true,
+    "showPassageMarker": false,
+    "surfaceView": true
+}
